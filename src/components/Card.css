@@ -1,0 +1,9 @@
+.each{
+    box-shadow: 2px 2px 2px 2px whitesmoke;
+    font-weight: light;
+    width: 21rem; 
+    height: 3rem;
+    background-color: white;
+    margin-bottom: 1rem;
+    
+}

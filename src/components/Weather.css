@@ -1,0 +1,40 @@
+.search-container{
+    /* float: right; */
+    padding: 1rem;
+    /* margin-left:70vw; */
+}
+.weather-button{
+    
+    width: 17rem;
+    
+}
+button{
+    width: 100% ;
+    height: 100%;
+    background-color:skyblue;
+    border-radius: 5px;
+    color:white
+}
+.cards-container{
+    /* background-color: whitesmoke; */
+    padding-left: 1rem;
+}
+.search-input{
+    width: 19rem; 
+}
+input{
+    width: 100%; 
+    height: 40px; 
+    outline: none;
+    border-radius:5px;
+}
+form{
+    display: flex;
+    justify-content: space-between;
+}
+
+.flex-box{
+    display: flex;
+    gap: 2rem;
+    
+}
